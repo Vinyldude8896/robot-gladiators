@@ -1,8 +1,15 @@
 # Robot Gladiators
 
-### This is an apllication that was designed as a ropbot battle game using input's from the user. 
+### User Story
 
-### This is a robot fighting game using inout's from the user. After providing a Robot name, the game starts with three rounds. Each round fights against an enemy robot. Health is tracked after each attack. A potion can be used after eachround assuming the player's robot survives. Then an end score is given.
+As a user I am looking for a quick simple game to pass 5 or ten minutes as a mental break, I would like an application that is easy to use does not require a great deal of concentration. When I start the game I want to be able to add my choic of Robot Name, and just fight through battles by simply typing commands.
+
+### Features
+This app allows you to play a robot battle simulator game with 3 rounds
+This app will take input from the user on what they want to name their Robot.
+The user will then be able to fight through 3 rounds or skip the round.
+After each round you can choose to use a potion to increase heath, strength, etc.
+After three rounds, if your robot survives you will be given a final score.
 
 ### badges
 ![HTML](https://img.shields.io/badge/HTML-License-blue)
